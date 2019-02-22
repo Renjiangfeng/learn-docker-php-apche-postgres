@@ -22,7 +22,7 @@ yarn-debug.log*
 yarn-error.log*
 
 
-docker-build/log/nginx/*
-docker-build/mysql/data/*
+docker-build/postgresql/data/*
+docker-build/log/*
 
 
